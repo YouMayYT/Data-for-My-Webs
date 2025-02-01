@@ -1,0 +1,20 @@
+{
+    "solutions": [
+        {
+            "Image": "https://via.placeholder.com/800x400",
+            "Title": "Unit 10, Question: 9.",
+            "Description": "What is the best anime?",
+            "Subject": "General Knowledge",
+            "Uploader": "Siam",
+            "Link": "https://drive.google.com/example-pdf-link1"
+        },
+        {
+            "Image": "https://via.placeholder.com/800x400",
+            "Title": "Math Exercise 5, Question: 12.",
+            "Description": "Solve the equation 2x + 5 = 15.",
+            "Subject": "Mathematics",
+            "Uploader": "John Doe",
+            "Link": "https://drive.google.com/example-pdf-link2"
+        }
+    ]
+}
